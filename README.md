@@ -37,7 +37,8 @@ print("Number of words= ",num_words)
 ```
 ### OUTPUT:
 
-
+![WhatsApp Image 2023-01-29 at 14 33 17](https://user-images.githubusercontent.com/118787064/215316222-607f2859-2e09-42d9-9b73-f0b3e2a616e3.jpg)
+![WhatsApp Image 2023-01-29 at 14 33 17 2](https://user-images.githubusercontent.com/118787064/215316233-9ee5b6db-d01e-413c-910b-675898773536.jpg)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
